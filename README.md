@@ -1,6 +1,6 @@
 Freight Module
 ===
-   Creates a configuration file for freight, creates a vhost, and builds out directories for freight
+   Installs and configures a local APT repo using freight   
 
 Requires:
 ---
@@ -15,6 +15,8 @@ Actions:
 
 Defined Type: 
 ---
+   Creates a configuration file for freight, creates a vhost, and builds out directories for freight
+
 	freight::repo
    
 Sample Usage:
