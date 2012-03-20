@@ -8,10 +8,10 @@ Requires:
 
 Actions:
 ---
-  Install appropriate apache vhost for freight instance
-  Add rcrowley's repository key so freight can be apt-installed
-  Install, configure and setup freight instance
-  Installs gpg-agent for signing packages
+  Install appropriate apache vhost for freight instance  
+  Add rcrowley's repository key so freight can be apt-installed  
+  Install, configure and setup freight instance  
+  Installs gpg-agent for signing packages  
 
 Defined Type: 
 ---
