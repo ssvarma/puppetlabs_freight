@@ -13,6 +13,15 @@ Actions:
   Install, configure and setup freight instance  
   Installs gpg-agent for signing packages  
 
+Sample Usage:
+---
+	freight::repo { 'freight':
+	freight_vhost_name  => 'freight.somewhere.com',
+	freight_docroot     => '/var/www/html',
+	freight_gpgkey      => 'me@somewhere.com',
+	freight_libdir      => '/var/lib/freight',
+	}
+
 Defined Type: 
 ---
    Creates a configuration file for freight, creates a vhost, and builds out directories for freight
