@@ -1,6 +1,6 @@
 Freight Module
 ===
-   Installs and configures a local APT repo using freight   
+  Installs and configures a local APT repo using freight   
 
 Requires:
 ---
