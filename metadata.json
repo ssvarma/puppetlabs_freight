@@ -7,7 +7,7 @@
     "tests/freight.pp": "2d97d4e7ef3c177f27d3a01a20dd4fe4",
     "README.md": "8905827efb4ec530d81c521f507ec587",
     "manifests/repo.pp": "fe3ae2b996c41b81351f9b2a0a677cd3",
-    "Modulefile": "622c81404b0293e49daa9d17cceaddd1",
+    "Modulefile": "3a49b423d108f550ab5bddfe5a2aeb6f",
     "manifests/init.pp": "d84a62391266b3016214bf8ee70d6e85"
   },
   "dependencies": [
@@ -16,7 +16,7 @@
   "license": "UNKNOWN",
   "summary": "Module to install and configure a local APT repo using freight",
   "description": "This class installs and configures a local APT repo using freight",
-  "source": "UNKNOWN",
+  "source": "http://github.com/puppetlabs/puppetlabs-freight",
   "types": [
 
   ],
